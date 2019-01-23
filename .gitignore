@@ -1,0 +1,11 @@
+.idea
+node_modules
+bower_components
+*.map
+*.po~
+*.pot~
+*.zip
+*.rar
+style.min.css
+brainworks.min.js
+/ignored
