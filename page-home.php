@@ -65,7 +65,7 @@ if (function_exists('pll_e')) { ?>
     <?php
     $args = array(
         'post_type' => 'portfolio',
-        'posts_per_page' => -1,
+        'posts_per_page' => 8,
     );
 
     $query = new WP_Query($args);
