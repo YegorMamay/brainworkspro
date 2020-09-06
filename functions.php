@@ -59,3 +59,5 @@ if (!function_exists('dd')) {
 }
 
 require_once 'inc/ajax-contact-form.php';
+
+add_filter('wpseo_premium_post_redirect_slug_change', '__return_true' );

@@ -24,7 +24,7 @@ $services = array(
 
 if (function_exists('pll_e')) { ?>
     <section class="section-box pt-0">
-        <div class="sp-xs-10 sp-sm-10 sp-md-10 sp-lg-10 sp-xl-3"></div>
+        <div class="sp-xs-10 sp-sm-10 sp-md-10 sp-lg-10 sp-xl-10"></div>
         <div class="container">
             <div class="service text-center">
                 <h1 class="page-name"><?php pll_e(get_theme_mod('bw_section_hero_title', 'Разработка сайтов')); ?></h1>
